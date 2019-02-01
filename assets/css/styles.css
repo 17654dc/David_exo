@@ -1,0 +1,11 @@
+@import url("reset.css");
+
+p#un {
+background-color: blue; width: 300px;
+}
+p#deux {
+background-color: green; width: 200px;
+}
+p#trois {
+background-color: pink; width: 1000px;
+}
